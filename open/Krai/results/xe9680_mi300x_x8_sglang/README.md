@@ -1,4 +1,4 @@
-See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/submissions_inference_v5.0/blob/refs/heads/main/open/Krai/results/xe9680_mi300x_x8_sglang/summary.html)
+See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/inference_results_v5.0/blob/refs/heads/main/open/Krai/results/xe9680_mi300x_x8_sglang/summary.html)
 <header class="topbar">
 <div class="topbar-container">
 <div class="logo">

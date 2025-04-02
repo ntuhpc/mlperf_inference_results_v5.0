@@ -1,4 +1,4 @@
-See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/submissions_inference_v5.0/blob/refs/heads/main/open/FlexAI/results/cmx-flexbench-cuda-1xH100-vllm-0.7.3-pytorch-2.5.1-huggingface-36d94432c8704c14/summary.html)
+See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/inference_results_v5.0/blob/refs/heads/main/open/FlexAI/results/cmx-flexbench-cuda-1xH100-vllm-0.7.3-pytorch-2.5.1-huggingface-36d94432c8704c14/summary.html)
 <header class="topbar">
 <div class="topbar-container">
 <div class="logo">

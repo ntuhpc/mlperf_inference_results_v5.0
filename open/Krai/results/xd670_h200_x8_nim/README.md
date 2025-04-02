@@ -1,4 +1,4 @@
-See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/submissions_inference_v5.0/blob/refs/heads/main/open/Krai/results/xd670_h200_x8_nim/summary.html)
+See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/inference_results_v5.0/blob/refs/heads/main/open/Krai/results/xd670_h200_x8_nim/summary.html)
 <header class="topbar">
 <div class="topbar-container">
 <div class="logo">

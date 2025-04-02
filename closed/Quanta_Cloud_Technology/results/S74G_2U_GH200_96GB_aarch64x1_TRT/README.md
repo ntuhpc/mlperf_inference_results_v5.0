@@ -1,4 +1,4 @@
-See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/submissions_inference_v5.0/blob/refs/heads/main/closed/Quanta_Cloud_Technology/results/S74G_2U_GH200_96GB_aarch64x1_TRT/summary.html)
+See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/inference_results_v5.0/blob/refs/heads/main/closed/Quanta_Cloud_Technology/results/S74G_2U_GH200_96GB_aarch64x1_TRT/summary.html)
 <header class="topbar">
 <div class="topbar-container">
 <div class="logo">

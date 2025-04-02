@@ -1,4 +1,4 @@
-See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/submissions_inference_v5.0/blob/refs/heads/main/closed/NVIDIA/results/GB200-NVL72_GB200-186GB_aarch64x72_TRT_Triton/summary.html)
+See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/inference_results_v5.0/blob/refs/heads/main/closed/NVIDIA/results/GB200-NVL72_GB200-186GB_aarch64x72_TRT_Triton/summary.html)
 <header class="topbar">
 <div class="topbar-container">
 <div class="logo">

@@ -1,4 +1,4 @@
-See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/submissions_inference_v5.0/blob/refs/heads/main/closed/ASUSTeK/results/ESC_A8A_MI325X_256GBx8/summary.html)
+See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/mlcommons/inference_results_v5.0/blob/refs/heads/main/closed/ASUSTeK/results/ESC_A8A_MI325X_256GBx8/summary.html)
 <header class="topbar">
 <div class="topbar-container">
 <div class="logo">
