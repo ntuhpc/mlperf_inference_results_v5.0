@@ -1,0 +1,2 @@
+| Model   | Scenario   | Accuracy   | Throughput   | Latency (in ms)   | Power Efficiency (in samples/J)   | TEST01   | TEST04   |
+|---------|------------|------------|--------------|-------------------|-----------------------------------|----------|----------|
