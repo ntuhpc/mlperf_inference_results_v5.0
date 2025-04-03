@@ -28,7 +28,7 @@
     "accelerator_memory_capacity": "N/A",
     "accelerator_memory_configuration": "N/A",
     "accelerator_on-chip_memories": "N/A",
-    "cooling": "Liquid",
+    "cooling": "Air-cooled",
     "hw_notes": "Dell PowerEdge R670",
 
     "framework": "PyTorch",
