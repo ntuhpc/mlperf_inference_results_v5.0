@@ -126,7 +126,7 @@ See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/ml
 <h3>Other Hardware Details</h3>
 <div class="table-container">
 <table class="table">
-<tr><td>cooling</td><td>Liquid</td></tr><tr><td>hw_notes</td><td>Dell PowerEdge R670</td></tr></table></div></div>
+<tr><td>cooling</td><td>Air-cooled</td></tr><tr><td>hw_notes</td><td>Dell PowerEdge R670</td></tr></table></div></div>
 <div class="table-wrapper"><div class="yellow-strip floater" data-speed="0.1" style="transform: translate3d(0px, 19px, 0px);">
 <svg role="presentation" aria-hidden="true" width="83" height="21" viewBox="0 0 83 21" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0 0L0 3.42863L3.24487 0L0 0Z" fill="#FBBC04"></path>
