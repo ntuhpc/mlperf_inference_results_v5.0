@@ -50,10 +50,10 @@ See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/ml
 </div>
 <div class="welcome-section-wrapper2">
 <div class="button-container">
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/GigaComputing/code" class="button">Code</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/GigaComputing/results/G893-ZX1-AAX2" class="button">Result Logs</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/GigaComputing/measurements/G893-ZX1-AAX2" class="button">Measurements</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/GigaComputing/compliance/G893-ZX1-AAX2" class="button">Compliance</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/GigaComputing/code" class="button">Code</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/GigaComputing/results/G893-ZX1-AAX2" class="button">Result Logs</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/GigaComputing/measurements/G893-ZX1-AAX2" class="button">Measurements</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/GigaComputing/compliance/G893-ZX1-AAX2" class="button">Compliance</a>
 </div>
 </div>
 </div>

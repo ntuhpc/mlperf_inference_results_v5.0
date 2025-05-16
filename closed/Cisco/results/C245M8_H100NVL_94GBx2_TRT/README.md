@@ -50,10 +50,10 @@ See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/ml
 </div>
 <div class="welcome-section-wrapper2">
 <div class="button-container">
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/Cisco/code" class="button">Code</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/Cisco/results/C245M8_H100NVL_94GBx2_TRT" class="button">Result Logs</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/Cisco/measurements/C245M8_H100NVL_94GBx2_TRT" class="button">Measurements</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/Cisco/compliance/C245M8_H100NVL_94GBx2_TRT" class="button">Compliance</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/Cisco/code" class="button">Code</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/Cisco/results/C245M8_H100NVL_94GBx2_TRT" class="button">Result Logs</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/Cisco/measurements/C245M8_H100NVL_94GBx2_TRT" class="button">Measurements</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/Cisco/compliance/C245M8_H100NVL_94GBx2_TRT" class="button">Compliance</a>
 </div>
 </div>
 </div>

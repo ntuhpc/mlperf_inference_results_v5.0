@@ -50,9 +50,9 @@ See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/ml
 </div>
 <div class="welcome-section-wrapper2">
 <div class="button-container">
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/open/Krai/code" class="button">Code</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/open/Krai/results/xe9680_mi300x_x8_sglang" class="button">Result Logs</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/open/Krai/measurements/xe9680_mi300x_x8_sglang" class="button">Measurements</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/open/Krai/code" class="button">Code</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/open/Krai/results/xe9680_mi300x_x8_sglang" class="button">Result Logs</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/open/Krai/measurements/xe9680_mi300x_x8_sglang" class="button">Measurements</a>
 </div>
 </div>
 </div>

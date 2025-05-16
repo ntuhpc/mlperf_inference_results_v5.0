@@ -50,10 +50,10 @@ See the HTML preview [here](https://htmlpreview.github.io/?https://github.com/ml
 </div>
 <div class="welcome-section-wrapper2">
 <div class="button-container">
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/GATEOverflow/code" class="button">Code</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/GATEOverflow/results/45ba30c5b244-reference-gpu-pytorch_v2.2.2-cu124" class="button">Result Logs</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/GATEOverflow/measurements/45ba30c5b244-reference-gpu-pytorch_v2.2.2-cu124" class="button">Measurements</a>
-<a href="https://github.com/mlcommons/submissions_inference_5.0/tree/main/closed/GATEOverflow/compliance/45ba30c5b244-reference-gpu-pytorch_v2.2.2-cu124" class="button">Compliance</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/GATEOverflow/code" class="button">Code</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/GATEOverflow/results/45ba30c5b244-reference-gpu-pytorch_v2.2.2-cu124" class="button">Result Logs</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/GATEOverflow/measurements/45ba30c5b244-reference-gpu-pytorch_v2.2.2-cu124" class="button">Measurements</a>
+<a href="https://github.com/mlcommons/inference_results_v5.0/tree/main/closed/GATEOverflow/compliance/45ba30c5b244-reference-gpu-pytorch_v2.2.2-cu124" class="button">Compliance</a>
 </div>
 </div>
 </div>
