@@ -12,11 +12,11 @@ class COFFEEPOT(OfflineGPUBaseConfig):
     # Please see NVIDIA's submission config files for example values and which fields to keep.
     # Required fields (Must be set or inherited to run):
     gpu_batch_size: dict = {
-    'clip1': 8,
-    'clip2': 8,
-    'unet': 8,
-    'vae': 2
-}
+        'clip1': 8,
+        'clip2': 8,
+        'unet': 8,
+        'vae': 2
+    }
 
     tensor_path = "build/preprocessed_data/coco2014-tokenized-sdxl/5k_dataset_final/"
 
@@ -28,6 +28,3 @@ class COFFEEPOT(OfflineGPUBaseConfig):
     offline_expected_qps: float = 0.0
     vboost_slider: int = 0
     workspace_size: int = 0
-
-
-
