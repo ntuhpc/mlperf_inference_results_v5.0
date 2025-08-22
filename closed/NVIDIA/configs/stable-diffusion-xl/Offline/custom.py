@@ -22,9 +22,9 @@ class COFFEEPOT(OfflineGPUBaseConfig):
 
 
     # Optional fields:
-    active_sms: int = 0
-    cache_file: str = ''
-    engine_dir: str = ''
-    offline_expected_qps: float = 0.0
-    vboost_slider: int = 0
-    workspace_size: int = 0
+    # active_sms: int = 0
+    # cache_file: str = ''
+    # engine_dir: str = ''
+    # offline_expected_qps: float = 0.0
+    # vboost_slider: int = 0
+    # workspace_size: int = 0
