@@ -29,13 +29,13 @@ MODEL_DIR=/work/build/models
 DATA_DIR=/work/build/data
 
 # Download the fp16 raw weights of MLCommon hosted HF checkpoints
-download_file models SDXL/official_pytorch/fp16 \
-    https://cloud.mlcommons.org/index.php/s/LCdW5RM6wgGWbxC/download \
-    stable_diffusion_fp16.zip
-
-unzip ${MODEL_DIR}/SDXL/official_pytorch/fp16/stable_diffusion_fp16.zip \
-    -d ${MODEL_DIR}/SDXL/official_pytorch/fp16/
-
+# download_file models SDXL/official_pytorch/fp16 \
+#     https://cloud.mlcommons.org/index.php/s/LCdW5RM6wgGWbxC/download \
+#     stable_diffusion_fp16.zip
+# 
+# unzip ${MODEL_DIR}/SDXL/official_pytorch/fp16/stable_diffusion_fp16.zip \
+#     -d ${MODEL_DIR}/SDXL/official_pytorch/fp16/
+# 
 md5sum ${MODEL_DIR}/SDXL/official_pytorch/fp16/stable_diffusion_fp16/checkpoint_pipe/text_encoder/model.safetensors | grep "81b87e641699a4cd5985f47e99e71eeb"
 if [ $? -ne 0 ]; then
     echo "SDXL CLIP1 fp16 model md5sum mismatch"
